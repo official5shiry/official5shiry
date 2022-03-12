@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmad Sharif
+- 👀 I’m interested in computer skills from troubleshooting to hacking.
+- 🌱 I’m currently learning coding C++.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me by email: khrasan.zada@gmail.com
